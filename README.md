@@ -1,15 +1,15 @@
 # SimpleXFortAPI
 
-Python Based Fortnite API Console 
-Compatible with
-  Windows 10 {Python 2.7}
-  Linux {Python 2.7 / Not Tested Yet!}
+Python Based Fortnite API Console  \n
+Compatible with \n
+  Windows 10 {Python 2.7} \n
+  Linux {Python 2.7 / Not Tested Yet!} \n
   
- Installation:
-  -> Download as Zip / Git Clone to Directory
-  -> Open Terminal inside of SimpleXFortnite Folder
-  -> run "python install.py"
-  -> once installation is done, the API will be runned
+ Installation: \n
+  -> Download as Zip / Git Clone to Directory \n
+  -> Open Terminal inside of SimpleXFortnite Folder \n
+  -> run "python install.py" \n
+  -> once installation is done, the API will be runned \n
  
- Thanks to https://fortniteapi.com/ for the JSON API
+ Thanks to https://fortniteapi.com/ for the JSON API \n
  Thanks to SimpleXTeam for the teamwork
