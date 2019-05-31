@@ -2,7 +2,7 @@
 
 Python Based Fortnite API Console  
 Compatible with  
-  Windows 10 {Python 2.7}   
+  Windows 10 {Python 2.7 (Python 3 Support coming soon!)}   
   Linux {Python 2.7 / Not Tested Yet!}   
   
  Installation:   
