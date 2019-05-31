@@ -9,7 +9,15 @@ Compatible with
   -> Download as Zip / Git Clone to Directory   
   -> Open Terminal inside of SimpleXFortnite Folder   
   -> run "python install.py"   
-  -> once installation is done, the API will be runned   
+  -> once installation is done, the API will be runned 
+  
+# Requirements
+
+  - Python 2.7 installed 
+  - Windows (Environment Variable should be set!)
+  - Linux (Ubuntu -> apt-install python2.7 python-pip)
+  
+  (Note) -> Modules will be installed for you
   
 # Process
   1. Make sure the correct modules are installed
