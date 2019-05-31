@@ -27,7 +27,7 @@ Compatible with
  It says to "run SimpleXFortnite.py again!" but never actually runs the script?  
  A: This is probably because of a interferance with install.py when opening module.txt. Fix coming soon!
  
- Recursion Eror?  
+ Recursion Error?  
  A: While loop interferance while running two functions at the same time.
  
  Thanks to https://fortniteapi.com/ for the JSON API  
