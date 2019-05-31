@@ -21,13 +21,13 @@ Compatible with
   
  # FAQ
  
- I get a TypeError!
+ I get a TypeError!  
  A: If you recieve a TypeError, or any type of error please release an issue ticket with the error
  
- It says to "run SimpleXFortnite.py again!" but never actually runs the script?
+ It says to "run SimpleXFortnite.py again!" but never actually runs the script?  
  A: This is probably because of a interferance with install.py when opening module.txt. Fix coming soon!
  
- Recursion Eror?
+ Recursion Eror?  
  A: While loop interferance while running two functions at the same time.
  
  Thanks to https://fortniteapi.com/ for the JSON API  
