@@ -19,6 +19,11 @@ Compatible with
   5. Depending on the selection, the function required to run the selection will be called
   6. Finally, it will return back to the menu
   
+# Note
+  - The script will somtimes log json data into a seperate file, depending on the error, you can remove it if you want to
+  - Have not tested it on Linux, any issues email SimpleXTeam@gmail.com
+  - Improvments soon!
+  
  # FAQ
  
  I get a TypeError!  
